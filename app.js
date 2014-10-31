@@ -1,3 +1,6 @@
+// Based on exercises from Introduction to Express
+// http://code.tutsplus.com/tutorials/introduction-to-express--net-33367
+
 var express = require('express');
 var app = express();
 var port = 3000;
